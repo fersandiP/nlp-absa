@@ -52,7 +52,7 @@ polygot==0.1
 prompt-toolkit==1.0.15
 protobuf==3.5.2.post1
 psutil==5.4.5
-py==1.5.3
+py==1.10.0
 Pygments==2.2.0
 PyMySQL==0.8.1
 pyprof2calltree==1.4.3
