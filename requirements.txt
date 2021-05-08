@@ -12,7 +12,7 @@ decorator==4.3.0
 dill==0.2.7.1
 docopt==0.6.2
 entrypoints==0.2.3
-eventlet==0.23.0
+eventlet==0.31.0
 fundamentals==1.6.0
 gast==0.2.0
 greenlet==0.4.13
