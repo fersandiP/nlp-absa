@@ -17,7 +17,7 @@ fundamentals==1.6.0
 gast==0.2.0
 greenlet==0.4.13
 grpcio==1.12.0
-html5lib==0.9999999
+html5lib==0.99999999
 httplib2==0.9.1
 idna==2.6
 ipykernel==4.8.2
